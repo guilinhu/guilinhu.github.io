@@ -18,8 +18,8 @@ Aside from research, I am also very interested in aviation and lanscape photogra
 
 News
 ======
-- **[Jul 2023]** "PoseSonic" accepted to [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
-- **[Jul 2023]** "C-Auth" accepted to [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
+- **[Jul 2023]** "PoseSonic" accepted to [Ubicomp/IMWUT 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
+- **[Jul 2023]** "C-Auth" accepted to [ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
 - **[Jun 2023]** Received funding from Cornell University [Summer Experience Grant](https://as.cornell.edu/careers/summer-experience-grant-funding) to support my research
 - **[May 2022]** Received funding from Cornell University [Summer Experience Grant](https://as.cornell.edu/careers/summer-experience-grant-funding) to support my research
 
