@@ -3,6 +3,7 @@ title: "PoseSonic: 3D Upper Body Pose Estimation Through Egocentric Acoustic Sen
 collection: publications
 excerpt: 'Saif Mahmud, Ke Li, <u>Guilin Hu</u>, Hao Chen, Richard Jin, Ruidong Zhang, Francois Guimbretiere, Cheng Zhang'
 date: 2023-07-01
+paperurl: https://doi.org/10.1145/3610895
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, IMWUT/UbiComp'
 ---
 
