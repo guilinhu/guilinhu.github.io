@@ -1,7 +1,7 @@
----
+<!-- ---
 title: Mt. Rainier
 collection: portfolio
----
+--- -->
 
 ![image](/images/2M5A4390.jpg)
 ![image](/images/2M5A4522.jpg)
