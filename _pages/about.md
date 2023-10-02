@@ -16,4 +16,6 @@ I am applying for Ph.D. positions for Fall 2024! Please feel free to explore my 
 
 Aside from research, I am also very interested in aviation and lanscape photography. Feel free to check out my gallery with photos I took during my spare time!
 
-
+News
+======
+oweufbo
