@@ -4,6 +4,7 @@ collection: publications
 excerpt: 'Hyunchul Lim, <u>Guilin Hu</u>, Richard Jin, Hao Chen, Ryan Mao, Ruidong Zhang, Cheng Zhang'
 permalink: /publication/2010-10-01-paper-title-number-2
 paperurl: 'https://doi.org/10.1145/3594738.3611355'
+date: 2023-07-01
 venue: 'Proceedings of the 27th Annual International Symposium on Wearable Computers (ISWC’ 23)'
 ---
 
