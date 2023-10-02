@@ -11,11 +11,28 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-<div class="portfolio">
-  <div class="portfolio-item">
-    <img src="/images/2M5A4390.jpg" alt="Description of Image 1" width="300" height="200">
+<html>
+<style>
+  .container {
+    align-items: center;
+    float: left;
+  }
+
+  .image {
+    float: left;
+    padding: 5px;
+  }
+</style>
+
+<body>
+  <div class="container">
+    <div class="image">
+      <img src="/images/2M5A4390.jpg" alt="Description of Image 1" width="300" height="200">
+    </div>
+    <div class="image">
+      <img src="/images/2M5A4522.jpg" alt="Description of Image 2" width="300" height="200">
+    </div>
   </div>
-  <div class="portfolio-item">
-    <img src="/images/2M5A4522.jpg" alt="Description of Image 2" width="300" height="200">
-  </div>
-</div>
+</body>
+
+</html>
