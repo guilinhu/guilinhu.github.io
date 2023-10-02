@@ -6,7 +6,7 @@ date: 2023-07-01
 venue: 'Proceedings of the 27th Annual International Symposium on Wearable Computers (ISWC)'
 ---
 
-![image](cauth.png)
+![image](/images/cauth.png)
 
 
 Abstract
