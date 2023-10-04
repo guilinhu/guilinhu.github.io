@@ -14,7 +14,7 @@ My research interest is in combining machine learning with novel sensing approac
 
 I am applying for Ph.D. positions for Fall 2024! Please feel free to explore my works and projects. I'm always open to collaboration, discussions, and new ideas!
 
-Aside from research, I am also very interested in aviation and lanscape photography. Feel free to check out my gallery with photos I took during my spare time!
+Aside from research, I am also very interested in aviation and landscape photography. Feel free to check out my gallery with photos I took during my spare time!
 
 News
 ======
