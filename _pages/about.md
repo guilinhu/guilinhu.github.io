@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a senior undergraduate student majoring in Computer Science at Cornell University. I'm currently an undergraduate research assistant at the [Smart Computer Interfaces for Future Interactions (SciFi) Lab](https://www.scifilab.org/) advised by [Prof. Cheng Zhang](http://www.czhang.org/).
 
-My research interest is in combining machine learning with novel sensing approaches to develop new technologies that can promote health monitoring, accessibility, and new interactions with computers and robots through a better understanding of human behaviors.
+My research interest is in combining machine learning with novel wearable device form factors to develop new technologies that can promote health monitoring, accessibility, and new interactions with computers and robots through a better understanding of human behaviors.
 
-I am applying for Ph.D. positions for Fall 2024! Please feel free to explore my works and projects. I'm always open to collaboration, discussions, and new ideas!
+I am excited to start my Computer Science Ph.D. journey at the [Mobile Intelligence Lab](https://netlab.cs.washington.edu/) advised by [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the University of Washington, where I will continue to pursue my research in Human-computer Interaction and Ubiquitous Computing.
 
 Aside from research, I am also very interested in aviation and landscape photography. Feel free to check out my gallery with photos I took during my spare time!
 
