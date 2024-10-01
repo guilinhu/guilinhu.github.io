@@ -18,6 +18,8 @@ Aside from research, I am also very interested in aviation and landscape photogr
 
 News
 ======
+- **[Sep 2024]** "Ring-a-Pose" accepted to [Ubicomp/IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
+- **[Sep 2024]** Starting my PhD in Computer Science & Engineering at the University of Washington
 - **[Jul 2023]** "PoseSonic" accepted to [Ubicomp/IMWUT 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
 - **[Jul 2023]** "C-Auth" accepted to [ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
 - **[Jun 2023]** Received funding from Cornell University [Summer Experience Grant](https://as.cornell.edu/careers/summer-experience-grant-funding) to support my research
