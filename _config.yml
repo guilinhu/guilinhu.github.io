@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Guilin Hu"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Student in Computer Science, Cornell University"
-  location         : "Ithaca, NY"
+  bio              : "PhD student at UW CSE"
+  location         : "Seattle, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=SApLPlsAAAAJ&hl=en"
   email            : "guilinhu@cs.washington.edu"
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
