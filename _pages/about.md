@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there! This is Guilin"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student majoring in Computer Science at Cornell University. I'm currently an undergraduate research assistant at the [Smart Computer Interfaces for Future Interactions (SciFi) Lab](https://www.scifilab.org/) advised by [Prof. Cheng Zhang](http://www.czhang.org/).
 
-My research interest is in combining machine learning with novel wearable device form factors to develop new technologies that can promote health monitoring, accessibility, and new interactions with computers and robots through a better understanding of human behaviors.
+I am Guilin Hu, a PhD student in CSE at the University of Washington advised by [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the [Mobile Intelligence Lab](https://netlab.cs.washington.edu/). Previously, I obtained my B.A in Computer Science from Cornell University, where I worked with [Prof. Cheng Zhang](http://www.czhang.org/) at [SciFi Lab](https://www.scifilab.org/).
 
-I am excited to start my Computer Science Ph.D. journey at the [Mobile Intelligence Lab](https://netlab.cs.washington.edu/) advised by [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the University of Washington, where I will continue to pursue my research in Human-computer Interaction and Ubiquitous Computing.
+I’m passionate about audio and speech technologies, building models that help computers truly understand sound and interact with humans naturally. Currently, I am interested in human auditory perception and manipulation, developing real-time, streaming audio models that extend our hearing capability and enable intelligent control of our acoustic environments.
 
-Aside from research, I am also very interested in aviation and landscape photography. Feel free to check out my gallery with photos I took during my spare time!
+<span style="color:red"> I'm open for internship opportunities for Summer 2026. </span>
 
 News
 ======
+- **[Aug 2025]** "Proactive Hearing Assistant" accepted to EMNLP 2025 Main Conference
 - **[Sep 2024]** "Ring-a-Pose" accepted to [Ubicomp/IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
 - **[Sep 2024]** Starting my PhD in Computer Science & Engineering at the University of Washington
 - **[Jul 2023]** "PoseSonic" accepted to [Ubicomp/IMWUT 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
@@ -27,4 +27,5 @@ News
 
 Travels
 ======
-- **[Oct 2023]** I will be travelling to Cancun Mexico for [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
+- **[Nov 2025]** I will be traveling to Suzhou, China for EMNLP 2025
+- **[Oct 2023]** I will be traveling to Cancun, Mexico for [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
