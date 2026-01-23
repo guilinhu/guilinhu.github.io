@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Guilin Hu, a PhD student in CSE at the University of Washington advised by [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the [Mobile Intelligence Lab](https://netlab.cs.washington.edu/). Previously, I obtained my B.A in Computer Science from Cornell University, where I worked with [Prof. Cheng Zhang](http://www.czhang.org/) at [SciFi Lab](https://www.scifilab.org/).
+I am Guilin Hu, a PhD student in CSE at the University of Washington advised by [Prof. Shwetak Patel](https://www.cs.washington.edu/people/faculty/shwetak-patel/) at the [Ubicomp Lab](https://ubicomplab.cs.washington.edu/). Previously, I obtained my B.A in Computer Science from Cornell University, where I worked with [Prof. Cheng Zhang](http://www.czhang.org/) at [SciFi Lab](https://www.scifilab.org/).
 
 I’m passionate about audio and speech technologies, building models that help computers truly understand sound and interact with humans naturally. Currently, I am interested in human auditory perception and manipulation, developing real-time, streaming audio models that extend our hearing capability and enable intelligent control of our acoustic environments.
 
@@ -17,7 +17,7 @@ I’m passionate about audio and speech technologies, building models that help 
 
 News
 ======
-- **[Aug 2025]** "Proactive Hearing Assistant" accepted to EMNLP 2025 Main Conference
+- **[Aug 2025]** [Proactive Hearing Assistant](https://proactivehearing.cs.washington.edu/) accepted to EMNLP 2025 Main Conference
 - **[Sep 2024]** "Ring-a-Pose" accepted to [Ubicomp/IMWUT 2024](https://www.ubicomp.org/ubicomp-iswc-2024/)
 - **[Sep 2024]** Starting my PhD in Computer Science & Engineering at the University of Washington
 - **[Jul 2023]** "PoseSonic" accepted to [Ubicomp/IMWUT 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)
